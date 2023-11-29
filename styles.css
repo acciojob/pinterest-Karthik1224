@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.hero {
+
+            border: 1px solid rgb(164, 107, 107);
+            display: flex;
+            align-items: normal;
+            justify-content: none;
+            width: 80%;
+
+        }
+
+        img {
+
+            width: 800px;
+            height: 300px;
+            object-fit: cover;
+        }
+
+        button {
+
+            background-color: red;
+            color: white;
+            border-radius: 6px;
+            padding: 5px;
+        }
+        section{
+
+           margin:50px 20px;
+           text-align: center;
+           
+        }
